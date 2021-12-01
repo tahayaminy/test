@@ -63,6 +63,9 @@ input[type=radio]{
     margin: 10% auto;
     padding: 1% 2%;
     cursor: pointer;
+    background-color: #1F6650;
+    color: #EAFBEA;
+    border-radius: 10px;
 }
 article{
     width: 100%;
@@ -105,4 +108,7 @@ article{
     margin: 10% auto 0 auto;
     padding: 1% 2%;
     cursor:pointer;
+    background-color: #EA5E5E;
+    color: #EAFBEA;
+    border-radius: 5px;
 }
