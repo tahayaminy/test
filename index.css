@@ -4,7 +4,7 @@ body{
     color: #1F6650;
 }
 section{
-    min-width: 300px;
+    min-width: 250px;
     max-width: 600px;
     width: 60%;
     margin: 5% auto;
@@ -50,9 +50,9 @@ input[type=radio]{
     display: inline-block;
     direction: rtl;
     padding-right: 35px;
-    margin-left: 20px;
     cursor: pointer;
     color: #6F9A8D;
+    margin: 5px 0 5px 20px;
 }
 .checkbox:hover .check{
     background-color: #EA5E5E;
@@ -101,6 +101,7 @@ article{
     border-radius: 5px;
     transform: translateX(-50%) translateY(-50%);
     color:#6F9A8D;
+    min-width: 200px;
 }
 #cls{
     display: block;
